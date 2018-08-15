@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+This document describes the software requirements specifications for BooksUnlimited: Fast Track Shopping Software System specifically developed for use in any bookstore that would want to automate its book sales. This document includes a description of the software and its subsystems. Throughout this document, BooksUnlimited will sometimes be referred to as "this software" or "our software system". 
+1.1 Goals and objectives 
+cloudshop will be a web-based software system written in php , HTML and css to aid customers to  browse , manage, buy and sell products with regard to simplifying and speeding up the process of selection, ordering and purchasing products for customers as well as managing a database of users and a database of products through a conveniently designed Graphical User Interface which will utilize a user-friendly intuitive design approach. 
+Cloudshop will be a web-based fast track shopping application designed in the form of an e-commerce web site. 
+The system will be designed to be used by customers with little or no experience in using computerized systems. To aid users, documentation will be provided in the form of a user manual which will contain a detailed description of all system functions. 

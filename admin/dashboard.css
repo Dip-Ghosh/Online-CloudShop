@@ -1,0 +1,35 @@
+body{
+	background:rgb(0, 0, 102);
+
+}
+
+.btn {
+	margin-left: 40%;
+	margin-top: 20%;
+}
+
+.bn {
+	margin-top: 3%;
+	background: white;
+	font-style: italic;
+	text-transform: uppercase;
+	font-family: Comic Sans MS;
+
+}
+
+.bn a {
+
+	color: red;
+}
+
+
+.product {
+
+	margin-top: 5%;
+	margin-left: 35%;
+}
+
+.btn{
+
+	color: red;
+}
